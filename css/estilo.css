@@ -1,0 +1,12 @@
+img{border: dotted 10px rgb(255, 255, 255);}
+body {background-color: rgb(173, 241, 153);}
+*{color: rgb(40, 54, 50);}
+h1, h2 {
+    border: solid 4px rgb(10, 59, 3);
+margin: 50px;}
+.textogrande{font-size: 30px;
+    color: black;}
+#educacion {background: url(../imgs/fondo2.jpg);
+padding: 40px;}
+#educacion h2 {background-color: rgb(73, 188, 223);}
+#contacto h2 {background-color: rgb(96, 252, 252);}
